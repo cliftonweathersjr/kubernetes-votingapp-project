@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1721834168,,"wq!"
+|2,0,1721837821,,"wq!"
+:q!
+|2,0,1721837723,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,144 +27,262 @@
 # Registers:
 
 # File marks:
-'0  12  0  ~/worker-app-pod.yaml
-|4,48,12,0,1721834168,"~/worker-app-pod.yaml"
-'1  18  22  ~/postgres-pod.yaml
-|4,49,18,22,1721834055,"~/postgres-pod.yaml"
-'2  14  0  ~/redis-pod.yaml
-|4,50,14,0,1721833847,"~/redis-pod.yaml"
-'3  13  22  ~/result-app-pod.yaml
-|4,51,13,22,1721833803,"~/result-app-pod.yaml"
-'4  13  22  ~/voting-app-pod.yaml
-|4,52,13,22,1721833756,"~/voting-app-pod.yaml"
+'0  17  0  ~/result-app-service.yaml
+|4,48,17,0,1721837821,"~/result-app-service.yaml"
+'1  16  18  ~/voting-app-service.yaml
+|4,49,16,18,1721837774,"~/voting-app-service.yaml"
+'2  34  22  ~/voting-app-service.yaml
+|4,50,34,22,1721837723,"~/voting-app-service.yaml"
+'3  32  22  ~/voting-app-service.yaml
+|4,51,32,22,1721837723,"~/voting-app-service.yaml"
+'4  17  0  ~/voting-app-service.yaml
+|4,52,17,0,1721837620,"~/voting-app-service.yaml"
+'5  17  0  ~/voting-app-service.yaml
+|4,53,17,0,1721837620,"~/voting-app-service.yaml"
+'6  15  0  ~/voting-app-service.yaml
+|4,54,15,0,1721837620,"~/voting-app-service.yaml"
+'7  15  0  ~/voting-app-service.yaml
+|4,55,15,0,1721837620,"~/voting-app-service.yaml"
+'8  14  19  ~/postgres-service.yaml
+|4,56,14,19,1721835416,"~/postgres-service.yaml"
+'9  14  23  ~/redis-service.yaml
+|4,57,14,23,1721835350,"~/redis-service.yaml"
 
 # Jumplist (newest first):
--'  12  0  ~/worker-app-pod.yaml
-|4,39,12,0,1721834168,"~/worker-app-pod.yaml"
--'  1  0  ~/worker-app-pod.yaml
-|4,39,1,0,1721834142,"~/worker-app-pod.yaml"
--'  18  22  ~/postgres-pod.yaml
-|4,39,18,22,1721834055,"~/postgres-pod.yaml"
--'  18  22  ~/postgres-pod.yaml
-|4,39,18,22,1721834055,"~/postgres-pod.yaml"
--'  1  0  ~/postgres-pod.yaml
-|4,39,1,0,1721833922,"~/postgres-pod.yaml"
--'  1  0  ~/postgres-pod.yaml
-|4,39,1,0,1721833922,"~/postgres-pod.yaml"
--'  14  0  ~/redis-pod.yaml
-|4,39,14,0,1721833847,"~/redis-pod.yaml"
--'  14  0  ~/redis-pod.yaml
-|4,39,14,0,1721833847,"~/redis-pod.yaml"
--'  14  0  ~/redis-pod.yaml
-|4,39,14,0,1721833847,"~/redis-pod.yaml"
--'  14  0  ~/redis-pod.yaml
-|4,39,14,0,1721833847,"~/redis-pod.yaml"
--'  1  0  ~/redis-pod.yaml
-|4,39,1,0,1721833819,"~/redis-pod.yaml"
--'  1  0  ~/redis-pod.yaml
-|4,39,1,0,1721833819,"~/redis-pod.yaml"
--'  1  0  ~/redis-pod.yaml
-|4,39,1,0,1721833819,"~/redis-pod.yaml"
--'  1  0  ~/redis-pod.yaml
-|4,39,1,0,1721833819,"~/redis-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  13  22  ~/result-app-pod.yaml
-|4,39,13,22,1721833803,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  1  0  ~/result-app-pod.yaml
-|4,39,1,0,1721833774,"~/result-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  13  22  ~/voting-app-pod.yaml
-|4,39,13,22,1721833756,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
--'  1  0  ~/voting-app-pod.yaml
-|4,39,1,0,1721833703,"~/voting-app-pod.yaml"
+-'  17  0  ~/result-app-service.yaml
+|4,39,17,0,1721837821,"~/result-app-service.yaml"
+-'  1  0  ~/result-app-service.yaml
+|4,39,1,0,1721837785,"~/result-app-service.yaml"
+-'  16  18  ~/voting-app-service.yaml
+|4,39,16,18,1721837774,"~/voting-app-service.yaml"
+-'  16  18  ~/voting-app-service.yaml
+|4,39,16,18,1721837774,"~/voting-app-service.yaml"
+-'  1  0  ~/voting-app-service.yaml
+|4,39,1,0,1721837725,"~/voting-app-service.yaml"
+-'  1  0  ~/voting-app-service.yaml
+|4,39,1,0,1721837725,"~/voting-app-service.yaml"
+-'  34  22  ~/voting-app-service.yaml
+|4,39,34,22,1721837723,"~/voting-app-service.yaml"
+-'  32  22  ~/voting-app-service.yaml
+|4,39,32,22,1721837723,"~/voting-app-service.yaml"
+-'  34  22  ~/voting-app-service.yaml
+|4,39,34,22,1721837723,"~/voting-app-service.yaml"
+-'  32  22  ~/voting-app-service.yaml
+|4,39,32,22,1721837723,"~/voting-app-service.yaml"
+-'  17  0  ~/voting-app-service.yaml
+|4,39,17,0,1721837691,"~/voting-app-service.yaml"
+-'  15  0  ~/voting-app-service.yaml
+|4,39,15,0,1721837691,"~/voting-app-service.yaml"
+-'  17  0  ~/voting-app-service.yaml
+|4,39,17,0,1721837691,"~/voting-app-service.yaml"
+-'  15  0  ~/voting-app-service.yaml
+|4,39,15,0,1721837691,"~/voting-app-service.yaml"
+-'  15  0  ~/voting-app-service.yaml
+|4,39,15,0,1721837620,"~/voting-app-service.yaml"
+-'  15  0  ~/voting-app-service.yaml
+|4,39,15,0,1721837620,"~/voting-app-service.yaml"
+-'  1  0  ~/voting-app-service.yaml
+|4,39,1,0,1721835428,"~/voting-app-service.yaml"
+-'  1  0  ~/voting-app-service.yaml
+|4,39,1,0,1721835428,"~/voting-app-service.yaml"
+-'  1  0  ~/voting-app-service.yaml
+|4,39,1,0,1721835428,"~/voting-app-service.yaml"
+-'  1  0  ~/voting-app-service.yaml
+|4,39,1,0,1721835428,"~/voting-app-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  14  19  ~/postgres-service.yaml
+|4,39,14,19,1721835416,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  1  0  ~/postgres-service.yaml
+|4,39,1,0,1721835357,"~/postgres-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  14  23  ~/redis-service.yaml
+|4,39,14,23,1721835350,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
+-'  1  0  ~/redis-service.yaml
+|4,39,1,0,1721835327,"~/redis-service.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/result-app-service.yaml
+	*	1721837810	0
+	"	17	0
+	^	17	0
+	.	16	19
+	+	16	19
+
+> ~/voting-app-service.yaml
+	*	1721837773	0
+	"	16	18
+	^	16	19
+	.	16	18
+	+	15	18
+	+	37	19
+	+	34	23
+	+	9	15
+	+	16	18
+
+> ~/postgres-service.yaml
+	*	1721835411	0
+	"	14	19
+	^	14	20
+	.	14	19
+	+	14	19
+
+> ~/redis-service.yaml
+	*	1721835345	0
+	"	14	23
+	^	14	24
+	.	14	23
+	+	14	23
 
 > ~/worker-app-pod.yaml
 	*	1721834166	0
